@@ -1,0 +1,31 @@
+.margin_top{
+  margin-top: 15px;
+}
+.margin_bottom{
+  margin-bottom: 5px;
+}
+.margin-left{
+  margin-left: 15px;
+}
+.padding-right{
+  padding-right: 15px;
+}
+.padding-left{
+  padding-left: 15px;
+}
+
+.text-right{
+  display: flex;
+    justify-content: space-between
+}
+.outline{
+  outline: none!important;
+}
+/* .sort_selected::after{
+  content: '\f00c';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 0 10px;
+  display: inline-block;
+} */
